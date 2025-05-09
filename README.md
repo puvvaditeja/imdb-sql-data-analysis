@@ -6,7 +6,7 @@
 - Practice advanced SQL techniques including JOINs, GROUP BY, aggregate functions, subqueries, and window functions.
 
 ## Dataset used
-
+- <a href="https://github.com/puvvaditeja/imdb-sql-data-analysis/blob/main/imdb_dataset%20.sql">Dataset</a>
 
 ## Database Schema
 ![DATABASE SCHEMA](https://github.com/user-attachments/assets/0ad862c7-12fb-48d8-90ce-9c47ea12b235)
